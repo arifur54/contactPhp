@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans');
+.form-h{
+    padding-top: 60px;
+}
+body{
+    font-family: 'Alegreya', sans-serif;
+    background-color: azure;
+
+}
+header {
+    text-align: center;
+    width: 100%;
+    z-index: 99;
+}
+.error{
+    color: red;
+}
+.success{
+    font-family: 'Alegreya', sans-serif;
+    font-weight: bold;
+    color: green;
+}
+#b {
+    font-size: medium;
+    font-weight: bold;
+}
